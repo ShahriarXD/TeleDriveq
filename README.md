@@ -31,7 +31,7 @@ Or, just send us an [issue](https://github.com/mgilangjanuar/teledrive/issues) f
 
 If you're experiencing issues check this https://github.com/mgilangjanuar/teledrive/issues/373
 
-## Folder Structure
+## Folder Structure ok
 
 We using the monorepo structure with [yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/).
 
